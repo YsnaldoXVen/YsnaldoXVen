@@ -112,16 +112,6 @@
 ### 🔊 Listen with me   
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=175ec76ogp4fhnun9x17hy95g&cover_image=true&theme=default" /></div>  
 
-<br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
