@@ -1,5 +1,5 @@
 ### Hi there, Welcome !! 👋
-<img src="https://github.com/ysnaldster/ysnaldster/blob/main/gitHubBanner.png" alt="myGitHubBanner" />
+<img src="https://github.com/ysnaldster/ysnaldster/blob/main/banner.png" alt="myGitHubBanner" />
 <!--
 **YsnaldoXVen/YsnaldoXVen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
