@@ -1,19 +1,10 @@
 ### Hi world, I'm Ysnaldo !! 👋
 <img src="https://github.com/ysnaldster/ysnaldster/blob/main/gitHubHeader.png" alt="myGitHubBanner" />
 
-
-
-## Hi I'm Ysnaldo:computer: 
-<details open>
  <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Welcome!,This+is+;Github"> </summary>  
 <br>
- 
- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Ysnaldo, a full-time full-stack developer 👨‍💻 I love the world of technology </div>  
+ ### <div align="center">I'm Ysnaldo, a full-time full-stack developer 👨‍💻 I love the world of technology </div>  
   
 
 - 🌱 I design a back-end architecture under the layer model in Spring Boot. about that work [Application Layers in Spring Boot](https://github.com/ysnaldster/sumApplication).  
