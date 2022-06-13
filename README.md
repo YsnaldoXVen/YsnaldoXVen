@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Ysnaldo:computer: 
+## Hi I'm Ysnaldo:computer: 
 <details open>
  <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Welcome!,This+is+;Github"> </summary>  
 <br>
