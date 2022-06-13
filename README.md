@@ -1,4 +1,4 @@
-### Hi there, I'm Ysnaldo !! 👋
+### Hi world, I'm Ysnaldo !! 👋
 <img src="https://github.com/ysnaldster/ysnaldster/blob/main/gitHubHeader.png" alt="myGitHubBanner" />
 <!--
 **YsnaldoXVen/YsnaldoXVen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
