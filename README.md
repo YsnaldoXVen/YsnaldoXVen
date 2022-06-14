@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://github.com/ysnaldster/ysnaldster/blob/main/gitHubHeader.png" alt="myGitHubBanner" />
 
- ### <div align="center">I'm Ysnaldo, a full-time full-stack developer 👨‍.💻 I love the world of technology 🌎 </div>  
+ ### <div align="center">I'm Ysnaldo, a full-time full-stack developer 👨‍💻, also, I love the world of technology 🌎 </div>  
 
 ## 👊 What I do you do? 
 
@@ -18,7 +18,7 @@
 <br/>  
 
 ## 💪 My Skill Set 
-<table><tr><td valign="top" width="33%">
+<table style="border: hidden"><tr><td valign="top" width="33%">
 
 ### 📳 Frontend  
 <div align="center">  
@@ -83,8 +83,8 @@
 <br/>  
 
 ## 💻 Github Stats 
-<summary><img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+;My Github+stats"> </summary>  
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ysnaldster&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-> ***📖"Nothing remains static, everything is transformed, we have no other option but to continue learning and adapting to the supply and demand of human action."***
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ysnaldster&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
+
+> ***📖"Nothing remains static, everything is transformed, we have no other option but to continue learning and adapting to the supply and demand of human action."🤔 ***
