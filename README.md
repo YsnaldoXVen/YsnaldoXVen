@@ -88,3 +88,5 @@
 <br/>  
 
 ## 📖 Nothing remains static, everything is transformed, we have no other option but to continue learning and adapting to the supply and demand of human action. 🤔 
+
+<br/>  
