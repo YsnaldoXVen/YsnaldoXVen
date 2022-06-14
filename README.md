@@ -17,7 +17,7 @@
 <br/>  
 
 ## 💪 My Skill Set 
-<table style="border: hidden"><tr><td valign="top" width="33%">
+<table style="border:hidden"><tr><td valign="top" width="33%">
 
 ### 📳 Frontend  
 <div align="center">  
