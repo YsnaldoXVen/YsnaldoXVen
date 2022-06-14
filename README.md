@@ -81,5 +81,5 @@
 
 ## 💻 Github Stats 
 
-<div align="center" style="margin-bottom: 50px"><img src="https://github-readme-stats.vercel.app/api?username=ysnaldster&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-### 📖 Nothing remains static, everything is transformed, we have no other option but to continue learning and adapting to the supply and demand of human action. 🤔 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ysnaldster&show_icons=true&count_private=true&hide_border=true" align="center" style="margin-bottom: 50px"/></div>  
+📖 Nothing remains static, everything is transformed, we have no other option but to continue learning and adapting to the supply and demand of human action. 🤔 
