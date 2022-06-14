@@ -61,7 +61,8 @@
 <br/>  
 
 ## 📞 Connect with me 
-<div align="center">
+
+<div align="center" style="padding-top: 10px">
 <a href="https://linkedin.com/in/in/ysnaldojoselopez/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -86,4 +87,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ysnaldster&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
-> ***📖"Nothing remains static, everything is transformed, we have no other option but to continue learning and adapting to the supply and demand of human action."🤔 ***
+## 📖"Nothing remains static, everything is transformed, we have no other option but to continue learning and adapting to the supply and demand of human action."🤔 
