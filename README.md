@@ -16,8 +16,6 @@
 
 - 👌 I create software for client needs in these times using optimized technology of the way front-end and back-end.
   
-<br/>  
-
 ## 💪 My Skill Set 
 <table style="border:hidden"><tr><td valign="top" width="33%">
 
@@ -83,5 +81,5 @@
 
 ## 💻 Github Stats 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ysnaldster&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center" style="margin: 20px"><img src="https://github-readme-stats.vercel.app/api?username=ysnaldster&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 ## 📖 Nothing remains static, everything is transformed, we have no other option but to continue learning and adapting to the supply and demand of human action. 🤔 
