@@ -10,7 +10,7 @@
   
 - ☁️ I handle AWS Cloud services, such as S3 and EC2.  
   
-- 🎨 I like to make interactive and responsive design using CSS and SASS.  
+- 🎨 I like to make interactive and responsive design using CSS, SASS, Chakra UI, Material UI and Bootstrap.  
   
 - 👨‍💻 I develop front-end applications using ReactJS.  
 
