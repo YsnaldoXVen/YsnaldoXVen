@@ -1,8 +1,6 @@
 # 👋 Hi there, Welcome !! 
 
-<img src="https://github.com/ysnaldster/ysnaldster/blob/main/bannerGit.png" alt="myGitHubBanner" />
-
- ### <div align="center">I'm Ysnaldo, a full-time junior software developer 👨‍💻, also, I love the world of technology 🌎 </div>  
+ ### <div align="center">I'm Ysnaldo, a junior software developer 👨‍💻, also, I love the world of technology 🌎 </div>  
 
 ## 👊 What I do you do? 
 
