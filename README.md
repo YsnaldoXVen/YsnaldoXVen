@@ -1,7 +1,3 @@
-#                                                                               👋 Hi, I'm Ysnaldo Lopez
+#  👋 Hi, I'm Ysnaldo José López
 
-##                                                                                A backend Developer 🧑‍💻 
-  
-- ☁️ I handle AWS Cloud services, such as S3, EC2, ECR, Lambda, DynamoDB and RDS.  
-
-- 👌 I create software for client needs in these times using optimized technology of the way back-end.
+## 🧑‍💻 Passionate developer of software solutions, focused on addressing challenges and optimizing processes to meet customer needs. Committed to a collaborative approach and a positive attitude towards constant learning. 
